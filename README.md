@@ -3,6 +3,8 @@ Collection of Some Best ✨ Backgrounds for your 💻 Workplace .
 <br>
 <br>
 
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
 ## Table of content:
 * [4k-stuffs](#4k-stuffs)
 * [Thought](#Thought)
@@ -10,6 +12,8 @@ Collection of Some Best ✨ Backgrounds for your 💻 Workplace .
 
 <br>
 <br>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## 4k-stuffs:
 
@@ -62,6 +66,8 @@ Collection of Some Best ✨ Backgrounds for your 💻 Workplace .
 <br>
 <br>
 
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
 ## Thought:
 
 <p align="center">
@@ -78,8 +84,32 @@ Collection of Some Best ✨ Backgrounds for your 💻 Workplace .
 <br>
 <br>
 
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
 ## View:
 
+<p align="center">
+   <img src="https://github.com/ayush-sleeping/Set-as-Background/blob/main/View/Blue-Mountains.jpg"  />
+</p>
+
+<br>
+
+<p align="center">
+   <img src="https://github.com/ayush-sleeping/Set-as-Background/blob/main/View/Lighthouse.jpg"  />
+</p>
+
+<br>
+
+<p align="center">
+   <img src="https://github.com/ayush-sleeping/Set-as-Background/blob/main/View/Pink-meet-Lake.jpg"  />
+</p>
+
+
 <br>
 <br>
 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>

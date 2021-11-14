@@ -13,6 +13,52 @@ Collection of Some Best ✨ Backgrounds for your 💻 Workplace .
 
 ## 4k-stuffs:
 
+<p align="center">
+   <img src="https://github.com/ayush-sleeping/Set-as-Background/blob/main/4k-stuffs/IMG_20210926_164317_471.jpg"  />
+</p>
+
+<br>
+
+<p align="center">
+   <img src="https://github.com/ayush-sleeping/Set-as-Background/blob/main/4k-stuffs/IMG_20211020_200048_233.jpg"  />
+</p>
+
+<br>
+
+<p align="center">
+   <img src="https://github.com/ayush-sleeping/Set-as-Background/blob/main/4k-stuffs/IMG_0339.JPG"  />
+</p>
+
+<br>
+
+<p align="center">
+   <img src="https://github.com/ayush-sleeping/Set-as-Background/blob/main/4k-stuffs/IMG_1204.JPG"  />
+</p>
+
+<br>
+
+<p align="center">
+   <img src="https://github.com/ayush-sleeping/Set-as-Background/blob/main/4k-stuffs/IMG_7166.JPG"  />
+</p>
+
+<br>
+
+<p align="center">
+   <img src="https://github.com/ayush-sleeping/Set-as-Background/blob/main/4k-stuffs/IMG_9671.JPG"  />
+</p>
+
+<br>
+
+<p align="center">
+   <img src="https://github.com/ayush-sleeping/Set-as-Background/blob/main/4k-stuffs/beasts_4k_desktop.jpg"  />
+</p>
+
+<br>
+
+<p align="center">
+   <img src="https://github.com/ayush-sleeping/Set-as-Background/blob/main/4k-stuffs/calidity_4k_desktop.jpg"  />
+</p>
+
 <br>
 <br>
 

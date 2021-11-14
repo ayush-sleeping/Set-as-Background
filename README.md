@@ -64,6 +64,17 @@ Collection of Some Best ✨ Backgrounds for your 💻 Workplace .
 
 ## Thought:
 
+<p align="center">
+   <img src="https://github.com/ayush-sleeping/Set-as-Background/blob/main/Thought/Simply%20Create.PNG"  />
+</p>
+
+<br>
+
+<p align="center">
+   <img src="https://github.com/ayush-sleeping/Set-as-Background/blob/main/Thought/andy-art-bs4qtd2NsGI-unsplash.jpg"  />
+</p>
+
+
 <br>
 <br>
 

@@ -1,12 +1,13 @@
 # Set as Background 
 Collection of Some Best ✨ Backgrounds for your 💻 Workplace .
-<br>
-<br>
+<p align="center">
+   <img src="https://github.com/ayush-sleeping/Its-Nothing-don-t-open-it/blob/main/submerged_4k.jpg" width="1000px" />
+ </p>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## Table of content:
-* [4k-stuffs](#4k-stuffs)
+* [4k stuffs](#4k-stuffs)
 * [Thought](#Thought)
 * [View](#View)
 
@@ -15,7 +16,7 @@ Collection of Some Best ✨ Backgrounds for your 💻 Workplace .
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## 4k-stuffs:
+## 4k stuffs
 
 <p align="center">
    <img src="https://github.com/ayush-sleeping/Set-as-Background/blob/main/4k-stuffs/IMG_20210926_164317_471.jpg"  />
@@ -68,7 +69,7 @@ Collection of Some Best ✨ Backgrounds for your 💻 Workplace .
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## Thought:
+## Thought
 
 <p align="center">
    <img src="https://github.com/ayush-sleeping/Set-as-Background/blob/main/Thought/Simply%20Create.PNG"  />
@@ -86,7 +87,7 @@ Collection of Some Best ✨ Backgrounds for your 💻 Workplace .
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## View:
+## View
 
 <p align="center">
    <img src="https://github.com/ayush-sleeping/Set-as-Background/blob/main/View/Blue-Mountains.jpg"  />
